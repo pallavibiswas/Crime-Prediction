@@ -2,12 +2,12 @@ import pandas as pd
 import numpy as np
 
 csv_files = {
-    "oncampus_arrest": "oncampus_arrest.csv",
-    "oncampus_crime": "oncampus_crime.csv",
-    "oncampus_discipline": "oncampus_discipline.csv",
-    "oncampus_hate": "oncampus_hate.csv",
-    "oncampus_vawa": "oncampus_vawa.csv",
-    "oncampus_result": "oncampus_result.csv"
+    "residencehall_arrest": "data/residencehall_arrest.csv",
+    "residencehall_crime": "data/residencehall_crime.csv",
+    "residencehall_discipline": "data/residencehall_discipline.csv",
+    "residencehall_hate": "data/residencehall_hate.csv",
+    "residencehall_vawa": "data/residencehall_vawa.csv",
+    "residencehall_result": "data/residencehall_result.csv"
 }
 
 irrelevant_columns = ["OPEID","address","ZIP","sector_cd","Sector_desc"]
