@@ -5,11 +5,11 @@ import os
 
 sns.set_theme(style="whitegrid")
 
-output_dir = 'figures/residencehall_vawa'
+output_dir = 'figures/oncampus_arrest'
 
-df = pd.read_csv('transformed_data/feature_engineered_residencehall_vawa.csv')
+df = pd.read_csv('transformed_data/feature_engineered_oncampus_arrest.csv')
 
-incident_columns = ['DOMEST', 'DATING', 'STALK']
+incident_columns = ['WEAPON', 'DRUG', 'LIQUOR']
 filter_columns = ['FILTER20', 'FILTER21', 'FILTER22']
 
 # Trend Analysis: Line Plot for Each Incident Type
