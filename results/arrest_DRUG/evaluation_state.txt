@@ -1,0 +1,20 @@
+Evaluation for arrest_DRUG_sum:
+              precision    recall  f1-score   support
+
+       False       0.97      0.99      0.98       554
+        True       0.95      0.85      0.90       128
+
+    accuracy                           0.96       682
+   macro avg       0.96      0.92      0.94       682
+weighted avg       0.96      0.96      0.96       682
+
+Evaluation for arrest_DRUG_avg:
+              precision    recall  f1-score   support
+
+       False       0.97      0.99      0.98       554
+        True       0.94      0.85      0.89       128
+
+    accuracy                           0.96       682
+   macro avg       0.95      0.92      0.94       682
+weighted avg       0.96      0.96      0.96       682
+

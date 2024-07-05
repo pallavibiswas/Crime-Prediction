@@ -1,0 +1,20 @@
+Evaluation for crime_VEHIC_sum:
+              precision    recall  f1-score   support
+
+       False       0.97      0.99      0.98       530
+        True       0.96      0.89      0.92       152
+
+    accuracy                           0.97       682
+   macro avg       0.97      0.94      0.95       682
+weighted avg       0.97      0.97      0.97       682
+
+Evaluation for crime_VEHIC_avg:
+              precision    recall  f1-score   support
+
+       False       0.97      0.99      0.98       530
+        True       0.96      0.90      0.93       152
+
+    accuracy                           0.97       682
+   macro avg       0.97      0.94      0.95       682
+weighted avg       0.97      0.97      0.97       682
+

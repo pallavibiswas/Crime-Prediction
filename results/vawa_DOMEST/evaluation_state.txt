@@ -1,0 +1,20 @@
+Evaluation for vawa_DOMEST_sum:
+              precision    recall  f1-score   support
+
+       False       1.00      0.99      1.00       560
+        True       0.98      0.99      0.98       122
+
+    accuracy                           0.99       682
+   macro avg       0.99      0.99      0.99       682
+weighted avg       0.99      0.99      0.99       682
+
+Evaluation for vawa_DOMEST_avg:
+              precision    recall  f1-score   support
+
+       False       1.00      0.99      1.00       560
+        True       0.98      0.99      0.98       122
+
+    accuracy                           0.99       682
+   macro avg       0.99      0.99      0.99       682
+weighted avg       0.99      0.99      0.99       682
+

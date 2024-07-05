@@ -1,0 +1,20 @@
+Evaluation for crime_RAPE_sum:
+              precision    recall  f1-score   support
+
+       False       0.97      0.99      0.98       560
+        True       0.93      0.87      0.90       122
+
+    accuracy                           0.96       682
+   macro avg       0.95      0.93      0.94       682
+weighted avg       0.96      0.96      0.96       682
+
+Evaluation for crime_RAPE_avg:
+              precision    recall  f1-score   support
+
+       False       0.97      0.99      0.98       560
+        True       0.94      0.87      0.90       122
+
+    accuracy                           0.97       682
+   macro avg       0.95      0.93      0.94       682
+weighted avg       0.97      0.97      0.97       682
+
