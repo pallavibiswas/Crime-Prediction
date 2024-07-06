@@ -1,0 +1,20 @@
+Evaluation for discipline_DRUG_sum:
+              precision    recall  f1-score   support
+
+       False       1.00      0.91      0.95        57
+        True       0.97      1.00      0.98       144
+
+    accuracy                           0.98       201
+   macro avg       0.98      0.96      0.97       201
+weighted avg       0.98      0.98      0.97       201
+
+Evaluation for discipline_DRUG_avg:
+              precision    recall  f1-score   support
+
+       False       1.00      0.91      0.95        57
+        True       0.97      1.00      0.98       144
+
+    accuracy                           0.98       201
+   macro avg       0.98      0.96      0.97       201
+weighted avg       0.98      0.98      0.97       201
+

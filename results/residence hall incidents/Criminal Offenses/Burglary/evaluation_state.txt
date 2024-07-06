@@ -1,0 +1,20 @@
+Evaluation for crime_BURGLA_sum:
+              precision    recall  f1-score   support
+
+       False       1.00      0.98      0.99       105
+        True       0.98      1.00      0.99        96
+
+    accuracy                           0.99       201
+   macro avg       0.99      0.99      0.99       201
+weighted avg       0.99      0.99      0.99       201
+
+Evaluation for crime_BURGLA_avg:
+              precision    recall  f1-score   support
+
+       False       1.00      0.98      0.99       105
+        True       0.98      1.00      0.99        96
+
+    accuracy                           0.99       201
+   macro avg       0.99      0.99      0.99       201
+weighted avg       0.99      0.99      0.99       201
+

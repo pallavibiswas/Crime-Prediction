@@ -1,0 +1,20 @@
+Evaluation for crime_ARSON_sum:
+              precision    recall  f1-score   support
+
+       False       0.96      0.99      0.98       176
+        True       0.95      0.72      0.82        25
+
+    accuracy                           0.96       201
+   macro avg       0.95      0.86      0.90       201
+weighted avg       0.96      0.96      0.96       201
+
+Evaluation for crime_ARSON_avg:
+              precision    recall  f1-score   support
+
+       False       0.96      0.99      0.98       176
+        True       0.95      0.72      0.82        25
+
+    accuracy                           0.96       201
+   macro avg       0.95      0.86      0.90       201
+weighted avg       0.96      0.96      0.96       201
+

@@ -1,0 +1,20 @@
+Evaluation for crime_NEG_M_sum:
+              precision    recall  f1-score   support
+
+       False       1.00      1.00      1.00       200
+        True       0.00      0.00      0.00         1
+
+    accuracy                           1.00       201
+   macro avg       0.50      0.50      0.50       201
+weighted avg       0.99      1.00      0.99       201
+
+Evaluation for crime_NEG_M_avg:
+              precision    recall  f1-score   support
+
+       False       1.00      1.00      1.00       200
+        True       0.00      0.00      0.00         1
+
+    accuracy                           1.00       201
+   macro avg       0.50      0.50      0.50       201
+weighted avg       0.99      1.00      0.99       201
+
