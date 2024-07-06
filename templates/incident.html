@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select Prediction Level</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 8px 12px;
+            border: 1px solid #ddd;
+            text-align: left; /* Align text to the left */
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+        .pagination {
+            margin: 20px 0;
+            text-align: center;
+        }
+        .pagination button {
+            padding: 10px;
+            margin: 0 5px;
+            border: 1px solid #ddd;
+            background-color: #f4f4f4;
+            cursor: pointer;
+        }
+        .pagination button.disabled {
+            cursor: not-allowed;
+            opacity: 0.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Incident: {{ incident }}</h1>
+        <form action="" method="get">
+            <div class="form-group">
+                <label for="level">Prediction Level:</label>
+                <select id="level" name="level" class="form-control">
+                    <option value="">--Select a Level--</option>
+                    <option value="state">State Predictions</option>
+                    <option value="university">University Predictions</option>
+                    <option value="top_states">Top States</option>
+                    <option value="top_universities">Top Universities</option>
+                </select>
+            </div>
+        </form>
+        <div id="table-container">
+            <table class="table table-striped" id="predictions-table">
+                <thead>
+                    <tr id="table-head">
+                    </tr>
+                </thead>
+                <tbody id="table-body">
+                </tbody>
+            </table>
+        </div>
+        <div class="pagination" id="pagination-container">
+            <button id="prev-page" class="disabled" onclick="changePage(-1)">Previous</button>
+            <span id="page-info"></span>
+            <button id="next-page" class="disabled" onclick="changePage(1)">Next</button>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+        let currentPage = 1;
+        let rowsPerPage = 25;
+        let data = [];
+
+        document.getElementById('level').addEventListener('change', function() {
+            const level = this.value;
+            const incident = '{{ incident }}';
+            const url = `/predictions/{{ location }}/{{ offense_type }}/${incident}/${level}`;
+            console.log("Fetching data from URL:", url);
+            fetchData(url).then(responseData => {
+                console.log("Data fetched:", responseData);
+                data = responseData;
+                currentPage = 1;
+                displayTable();
+                updatePagination();
+            }).catch(error => {
+                console.error("Error fetching data:", error);
+            });
+        });
+
+        async function fetchData(url) {
+            const response = await fetch(url);
+            const data = await response.json();
+            return data;
+        }
+
+        function displayTable() {
+            const tableHead = document.getElementById('table-head');
+            const tableBody = document.getElementById('table-body');
+            tableHead.innerHTML = '';
+            tableBody.innerHTML = '';
+
+            if (data.length === 0) {
+                console.log("No data to display");
+                return;
+            }
+
+            const columns = Object.keys(data[0]);
+            console.log("Columns:", columns);
+            const headerRow = document.createElement('tr');
+            columns.forEach(col => {
+                const th = document.createElement('th');
+                th.textContent = col;
+                headerRow.appendChild(th);
+            });
+            tableHead.appendChild(headerRow);
+
+            const start = (currentPage - 1) * rowsPerPage;
+            const end = start + rowsPerPage;
+            const paginatedData = data.slice(start, end);
+            console.log("Displaying data:", paginatedData);
+
+            paginatedData.forEach(row => {
+                const tableRow = document.createElement('tr');
+                columns.forEach(col => {
+                    const td = document.createElement('td');
+                    td.textContent = row[col];
+                    tableRow.appendChild(td);
+                });
+                tableBody.appendChild(tableRow);
+            });
+        }
+
+        function updatePagination() {
+            const totalPages = Math.ceil(data.length / rowsPerPage);
+            document.getElementById('page-info').textContent = `Page ${currentPage} of ${totalPages}`;
+
+            document.getElementById('prev-page').classList.toggle('disabled', currentPage === 1);
+            document.getElementById('next-page').classList.toggle('disabled', currentPage === totalPages);
+        }
+
+        function changePage(direction) {
+            const totalPages = Math.ceil(data.length / rowsPerPage);
+            if ((direction === -1 && currentPage === 1) || (direction === 1 && currentPage === totalPages)) {
+                return;
+            }
+            currentPage += direction;
+            displayTable();
+            updatePagination();
+        }
+    </script>
+</body>
+</html>

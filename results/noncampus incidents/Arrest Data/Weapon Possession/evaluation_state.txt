@@ -1,0 +1,20 @@
+Evaluation for arrest_WEAPON_sum:
+              precision    recall  f1-score   support
+
+       False       1.00      0.99      1.00       145
+        True       0.91      1.00      0.95        10
+
+    accuracy                           0.99       155
+   macro avg       0.95      1.00      0.97       155
+weighted avg       0.99      0.99      0.99       155
+
+Evaluation for arrest_WEAPON_avg:
+              precision    recall  f1-score   support
+
+       False       1.00      0.99      1.00       145
+        True       0.91      1.00      0.95        10
+
+    accuracy                           0.99       155
+   macro avg       0.95      1.00      0.97       155
+weighted avg       0.99      0.99      0.99       155
+

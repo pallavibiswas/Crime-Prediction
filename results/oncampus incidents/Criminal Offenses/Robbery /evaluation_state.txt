@@ -1,0 +1,20 @@
+Evaluation for crime_ROBBE_sum:
+              precision    recall  f1-score   support
+
+       False       1.00      1.00      1.00       613
+        True       0.96      0.97      0.96        69
+
+    accuracy                           0.99       682
+   macro avg       0.98      0.98      0.98       682
+weighted avg       0.99      0.99      0.99       682
+
+Evaluation for crime_ROBBE_avg:
+              precision    recall  f1-score   support
+
+       False       1.00      1.00      1.00       613
+        True       0.96      0.97      0.96        69
+
+    accuracy                           0.99       682
+   macro avg       0.98      0.98      0.98       682
+weighted avg       0.99      0.99      0.99       682
+

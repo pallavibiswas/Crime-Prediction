@@ -1,0 +1,20 @@
+Evaluation for vawa_STALK_sum:
+              precision    recall  f1-score   support
+
+       False       0.99      1.00      1.00       141
+        True       1.00      0.93      0.96        14
+
+    accuracy                           0.99       155
+   macro avg       1.00      0.96      0.98       155
+weighted avg       0.99      0.99      0.99       155
+
+Evaluation for vawa_STALK_avg:
+              precision    recall  f1-score   support
+
+       False       0.99      1.00      1.00       141
+        True       1.00      0.93      0.96        14
+
+    accuracy                           0.99       155
+   macro avg       1.00      0.96      0.98       155
+weighted avg       0.99      0.99      0.99       155
+

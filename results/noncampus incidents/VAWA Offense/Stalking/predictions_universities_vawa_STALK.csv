@@ -1,0 +1,773 @@
+Serial Number,INSTNM,BRANCH,vawa_STALK_sum_pred,vawa_STALK_avg_pred,combined_pred
+1,Alabama A & M University,Main Campus,False,False,0.0
+2,University of Alabama at Birmingham,Main Campus,False,False,0.0
+3,University of Alabama in Huntsville,Main Campus,False,False,0.0
+4,Alabama State University,Main Campus,False,False,0.0
+5,The University of Alabama,Main Campus,True,True,1.0
+6,Central Alabama Community College,Alexander City Campus,False,False,0.0
+7,Athens State University,Athens State University Main Campus,False,False,0.0
+8,Auburn University at Montgomery,Auburn University Montgomery,False,False,0.0
+9,Auburn University,Auburn University,True,True,1.0
+10,Auburn University,E W Shell Fisheries Center North,False,False,0.0
+11,Coastal Alabama Community College,Coastal Alabama Community College Main Campus - Bay Minette,False,False,0.0
+12,Coastal Alabama Community College,Coastal Alabama Community College - Fairhope Campus,False,False,0.0
+13,Coastal Alabama Community College,Coastal Alabama Community College - Atmore Campus,False,False,0.0
+14,Faulkner University,Main Campus,False,False,0.0
+15,Huntingdon College,Main Campus,False,False,0.0
+16,J. F. Drake State Community and Technical College,Main Campus,False,False,0.0
+17,Jacksonville State University,Main Campus,False,False,0.0
+18,Jefferson State Community College,Jefferson,False,False,0.0
+19,University of West Alabama,University of West Alabama,False,False,0.0
+20,University of Mobile,University of Mobile,False,False,0.0
+21,University of North Alabama,Main Campus,False,False,0.0
+22,Northeast Alabama Community College,Northeast Alabama Community College,False,False,0.0
+23,Oakwood University,Oakwood University,False,False,0.0
+24,Samford University,Main Campus,False,False,0.0
+25,Snead State Community College,Main Campus,False,False,0.0
+26,University of South Alabama,Main Campus,True,True,1.0
+27,Spring Hill College,Spring Hill College,False,False,0.0
+28,Troy University,Troy Campus,False,False,0.0
+29,Tuskegee University,TUSKEGEE UNIVERSITY,False,False,0.0
+30,University of Alaska Anchorage,Anchorage Campus,True,True,1.0
+31,University of Alaska Anchorage,Kodiak College,False,False,0.0
+32,University of Alaska Anchorage,Prince William Sound College,False,False,0.0
+33,University of Alaska Anchorage,Aviation Technology Complex,False,False,0.0
+34,University of Alaska Fairbanks,University of Alaska Fairbanks,False,False,0.0
+35,University of Alaska Fairbanks,Community and Technical College,False,False,0.0
+36,University of Alaska Southeast,Main Campus/Auke Bay,False,False,0.0
+37,Arizona State University Campus Immersion,Tempe Campus,False,False,0.0
+38,Arizona State University Campus Immersion,Arizona State University-Polytechnic,False,False,0.0
+39,Arizona State University Campus Immersion,Downtown Phoenix Campus,False,False,0.0
+40,University of Arizona,Main Campus,False,False,0.0
+41,Eastern Arizona College,Main Campus,False,False,0.0
+42,Eastern Arizona College,Gila Pueblo Campus,False,False,0.0
+43,Eastern Arizona College,Payson Campus,False,False,0.0
+44,Grand Canyon University,Grand Canyon University,True,True,1.0
+45,Mohave Community College,Neal Campus - Kingman,False,False,0.0
+46,Northern Arizona University,Flagstaff Mountain Campus,False,False,0.0
+47,Northern Arizona University,NAU - North Valley,False,False,0.0
+48,Northern Arizona University,NAU - Tucson,False,False,0.0
+49,Northland Pioneer College,Main Campus - Painted Desert - PDC,False,False,0.0
+50,Northland Pioneer College,Little Colorado Campus - LCC,False,False,0.0
+51,Northland Pioneer College,Silver Creek Campus - SCC,False,False,0.0
+52,Northland Pioneer College,White Mountain Campus - WMC,False,False,0.0
+53,Northland Pioneer College,Hopi Center,False,False,0.0
+54,Northland Pioneer College,Kayenta Center,False,False,0.0
+55,Northland Pioneer College,Springerville/Eagar Center,False,False,0.0
+56,Northland Pioneer College,St. Johns Center,False,False,0.0
+57,Northland Pioneer College,Whiteriver Center,False,False,0.0
+58,Pima Community College,West Campus,False,False,0.0
+59,Pima Community College,Downtown Campus,False,False,0.0
+60,Pima Community College,East Campus,False,False,0.0
+61,Pima Community College,Desert Vista Campus,False,False,0.0
+62,Pima Community College,Northwest Campus,False,False,0.0
+63,Pima Community College,El Rio Adult Education Center,False,False,0.0
+64,Pima Community College,El Pueblo Adult Education Center,False,False,0.0
+65,Pima Community College,Aviation Technology Center,False,False,0.0
+66,Pima Community College,29th Street Coalition Center,False,False,0.0
+67,Pima Community College,Maintenance and Security,False,False,0.0
+68,Yavapai College,Yavapai College - Prescott Campus,False,False,0.0
+69,University of Arkansas for Medical Sciences,University of Arkansas for Medical Sciences,True,True,1.0
+70,Arkansas Baptist College,Arkansas Baptist College,False,False,0.0
+71,University of Arkansas,Main Campus,False,False,0.0
+72,Arkansas State University,Arkansas State University-Jonesboro,False,False,0.0
+73,Arkansas Tech University,Main Campus,False,False,0.0
+74,Arkansas Tech University,Arkansas Tech University - Ozark Campus,False,False,0.0
+75,University of Arkansas at Monticello,University of Arkansas at Monticello,False,False,0.0
+76,University of Arkansas at Monticello,Crossett COT,False,False,0.0
+77,University of Arkansas at Monticello,McGehee COT,False,False,0.0
+78,Baptist Health College Little Rock,Main Campus,False,False,0.0
+79,University of Central Arkansas,Main Campus,False,False,0.0
+80,East Arkansas Community College,East Arkansas Community College,False,False,0.0
+81,National Park College,Main Campus,False,False,0.0
+82,Harding University,Main Campus,False,False,0.0
+83,Henderson State University,Henderson State University,False,False,0.0
+84,John Brown University,Main Campus,False,False,0.0
+85,Arkansas Northeastern College,Arkansas Northeastern College,False,False,0.0
+86,Arkansas State University Three Rivers,Main Campus,False,False,0.0
+87,University of Arkansas Community College-Morrilton,Main Campus,False,False,0.0
+88,Philander Smith College,Philander Smith College,False,False,0.0
+89,Phillips Community College of the University of Arkansas,Main Campus,False,False,0.0
+90,Phillips Community College of the University of Arkansas,"Phillips Comm Coll, Stuttgart, AR",False,False,0.0
+91,Southeast Arkansas College,Main Campus,False,False,0.0
+92,University of Arkansas-Pulaski Technical College,University of Arkansas Pulaski Technical College,False,False,0.0
+93,University of Arkansas Hope-Texarkana,Hope Campus,False,False,0.0
+94,University of Arkansas Community College Rich Mountain,University of Arkansas at Rich Mountain,False,False,0.0
+95,Southern Arkansas University Main Campus,Main Campus,False,False,0.0
+96,Southern Arkansas University Tech,Main Campus,False,False,0.0
+97,University of Arkansas-Fort Smith,Main Campus,False,False,0.0
+98,Allan Hancock College,Santa Maria,False,False,0.0
+99,American River College,Main Campus,False,False,0.0
+100,American River College,Natomas Center,False,False,0.0
+101,American River College,Sacramento Regional Public Safety Training Center,False,False,0.0
+102,American River College,Mather Center,False,False,0.0
+103,Azusa Pacific University,Azusa (main campus),False,False,0.0
+104,Bakersfield College,Bakersfield College,True,True,1.0
+105,Bethesda University,Bethesda University,False,False,0.0
+106,Biola University,Main Campus,False,False,0.0
+107,California Baptist University,Main Campus,False,False,0.0
+108,California College of the Arts,San Francisco Campus,True,True,1.0
+109,California Institute of Technology,Main Campus,False,False,0.0
+110,California Lutheran University,Main Campus,False,False,0.0
+111,California Lutheran University,Pacific Lutheran Theological Seminary,False,False,0.0
+112,California Polytechnic State University-San Luis Obispo,Main Campus,False,False,0.0
+113,Alliant International University-San Diego,San Diego Campus,False,False,0.0
+114,California State University-Stanislaus,CSU Stanislaus - Turlock,False,False,0.0
+115,California State Polytechnic University-Pomona,Main Campus,False,False,0.0
+116,California State University-Chico,Main Campus,False,False,0.0
+117,California State University-Fresno,Main Campus,True,True,1.0
+118,California State University-Long Beach,Main Campus,False,False,0.0
+119,California State University-Los Angeles,"California State University, Los Angeles",True,True,1.0
+120,California State University-Northridge,"California State University, Northridge",False,False,0.0
+121,California State University-Sacramento,Sacramento State,False,False,0.0
+122,University of California-Berkeley,Main Campus,True,True,1.0
+123,University of California-Davis,Main Campus,False,False,0.0
+124,University of California-Davis,UC Davis Medical Center,False,False,0.0
+125,University of California-Irvine,UCI Main Campus,False,False,0.0
+126,University of California-Irvine,UCI Medical Center,False,False,0.0
+127,University of California-Los Angeles,UCLA,True,True,1.0
+128,University of California-Riverside,Main Campus,False,False,0.0
+129,University of California-San Diego,UC San Diego,True,True,1.0
+130,University of California-San Francisco,Main Campus - Parnassus Heights,True,True,1.0
+131,University of California-San Francisco,Mission Bay,False,False,0.0
+132,University of California-San Francisco,Mount Zion,False,False,0.0
+133,University of California-San Francisco,UCSF Benioff Children's Hospital - Oakland,True,True,1.0
+134,University of California-San Francisco,UCSF Fresno,False,False,0.0
+135,University of California-Santa Barbara,University of California Santa Barbara,True,True,1.0
+136,University of California-Santa Cruz,UC Santa Cruz,True,True,1.0
+137,California Institute of the Arts,California Institute of the Arts,False,False,0.0
+138,California State University Maritime Academy,California State University Maritime Academy,False,False,0.0
+139,Cerro Coso Community College,Main Campus,False,False,0.0
+140,Chaffey College,Rancho Campus,False,False,0.0
+141,Chaffey College,Chino Campus,False,False,0.0
+142,Chaffey College,Fontana Campus,False,False,0.0
+143,Chapman University,Orange Campus,True,True,1.0
+144,Charles R Drew University of Medicine and Science,Main Campus,False,False,0.0
+145,Claremont McKenna College,Main Campus,False,False,0.0
+146,Coastline Community College,Garden Grove Campus,False,False,0.0
+147,Coastline Community College,Westminster (Le-Jao) Center,False,False,0.0
+148,Western University of Health Sciences,Western University of Health Sciences,False,False,0.0
+149,Compton College,Compton Community College,False,False,0.0
+150,Cosumnes River College,Cosumnes River College,False,False,0.0
+151,Cosumnes River College,Elk Grove Center,False,False,0.0
+152,Cuesta College,Cuesta College,False,False,0.0
+153,Cuesta College,Paso Robles Campus,False,False,0.0
+154,Dell'Arte International School of Physical Theatre,Main Campus,False,False,0.0
+155,College of the Desert,College of the Desert  - Main Campus,False,False,0.0
+156,Diablo Valley College,Main Campus,False,False,0.0
+157,Dominican University of California,Dominican University of California,False,False,0.0
+158,El Camino Community College District,Main Campus,False,False,0.0
+159,Feather River Community College District,Main Campus,False,False,0.0
+160,Fielding Graduate University,Main Campus,False,False,0.0
+161,Fuller Theological Seminary,Fuller Pasadena,False,False,0.0
+162,Glendale Community College,Verdugo Campus,False,False,0.0
+163,Glendale Community College,Garfield Campus,False,False,0.0
+164,California State Polytechnic University-Humboldt,Cal Poly Humboldt,False,False,0.0
+165,Irvine Valley College,Irvine Valley College,False,False,0.0
+166,University of La Verne,MAIN CAMPUS (La Verne Campus),False,False,0.0
+167,Lake Tahoe Community College,Lake Tahoe Community College ,False,False,0.0
+168,Lassen Community College,Main campus,False,False,0.0
+169,La Sierra University,La Sierra University,False,False,0.0
+170,Loma Linda University,Loma Linda University,False,False,0.0
+171,Los Angeles Valley College,Los Angeles Valley College,False,False,0.0
+172,Los Angeles City College,Los Angeles City College,False,False,0.0
+173,Los Medanos College,Main Campus,False,False,0.0
+174,Loyola Marymount University,Westchester Campus,True,True,1.0
+175,Loyola Marymount University,Loyola Law School,False,False,0.0
+176,Merced College,Merced Community College District,False,False,0.0
+177,Merced College,Merced Community College District-Los Banos,False,False,0.0
+178,MiraCosta College,MiraCosta Community College District Oceanside Campus,False,False,0.0
+179,MiraCosta College,SEC (San Elijo Campus),False,False,0.0
+180,MiraCosta College,CLC (Community Learning Center),False,False,0.0
+181,MiraCosta College,TCI (Technology Career Institute),False,False,0.0
+182,Mt San Antonio College,Main Campus,False,False,0.0
+183,Mount Saint Mary's University,Chalon,False,False,0.0
+184,Occidental College,Occidental College,False,False,0.0
+185,Orange Coast College,Main Campus,False,False,0.0
+186,Otis College of Art and Design,Otis College of Art and Design (Goldsmith campus),False,False,0.0
+187,University of the Pacific,Main Campus,True,True,1.0
+188,Palomar College,Main Campus,False,False,0.0
+189,Pepperdine University,Malibu - Main Campus,False,False,0.0
+190,Pitzer College,Pitzer College,False,False,0.0
+191,Point Loma Nazarene University,Point Loma Nazerene University Main (Point Loma) Campus,False,False,0.0
+192,Santa Ana College,Santa Ana College,False,False,0.0
+193,Santa Ana College,Centennial Education Center,False,False,0.0
+194,College of the Redwoods,College of The Redwoods,False,False,0.0
+195,Rio Hondo College,Main Campus,False,False,0.0
+196,Rio Hondo College,Santa Fe Springs Fire Academy,False,False,0.0
+197,Rio Hondo College,South Whittier Educational Center,False,False,0.0
+198,Rio Hondo College,El Monte Educational Center,False,False,0.0
+199,Rio Hondo College,Pico Rivera Educational Center,False,False,0.0
+200,Riverside City College,Riverside City College,False,False,0.0
+201,Sacramento City College,Main Campus,False,False,0.0
+202,Sacramento City College,Davis Center,False,False,0.0
+203,Sacramento City College,West Sacramento Center,False,False,0.0
+204,Saddleback College,Main Campus,False,False,0.0
+205,San Diego City College,Main Campus,False,False,0.0
+206,San Diego Mesa College,Main Campus,False,False,0.0
+207,San Diego Miramar College,Main Campus,False,False,0.0
+208,San Diego State University,Main Campus,False,False,0.0
+209,University of San Diego,University of San Diego,False,False,0.0
+210,William Jessup University,Main Campus,False,False,0.0
+211,San Jose State University,Main Campus,False,False,0.0
+212,San Jose State University,Moss Landing Marine Laboratory,False,False,0.0
+213,San Jose State University,South Campus Athletic Complex ,False,False,0.0
+214,San Jose State University,Reid-Hillview Airport ,False,False,0.0
+215,San Jose State University,Timpany Center ,False,False,0.0
+216,Santa Barbara City College,Main Campus,False,False,0.0
+217,Santa Barbara City College,SBCC Cosmetology Academy,False,False,0.0
+218,Santa Barbara City College,Wake Campus,False,False,0.0
+219,Santa Barbara City College,Schott Campus,False,False,0.0
+220,Santa Clara University,Main Campus - Santa Clara University,True,True,1.0
+221,Santa Monica College,Main Campus,False,False,0.0
+222,Scripps College,Main Campus,False,False,0.0
+223,College of the Siskiyous,Main Campus,False,False,0.0
+224,Skyline College,Skyline College,False,False,0.0
+225,San Bernardino Valley College,San Bernardino Valley College,False,False,0.0
+226,San Bernardino Valley College,Economic Development and Corporate Training (EDCT),False,False,0.0
+227,Solano Community College,Main Campus-Fairfield,False,False,0.0
+228,Solano Community College,Vallejo,False,False,0.0
+229,Solano Community College,Vacaville,False,False,0.0
+230,Sonoma State University,Sonoma State University,False,False,0.0
+231,Marshall B Ketchum University,Marshall B. Ketchum University,False,False,0.0
+232,Southern California Institute of Architecture,Main Campus,False,False,0.0
+233,University of Southern California,University Park Campus,True,True,1.0
+234,University of Southern California,Health Sciences Campus,True,True,1.0
+235,Taft College,Taft College,False,False,0.0
+236,Victor Valley College,Victor Valley College,False,False,0.0
+237,Walden University,Walden University,False,False,0.0
+238,The Wright Institute,The Wright Institute,False,False,0.0
+239,Aims Community College,Greeley Campus,False,False,0.0
+240,University of Colorado Denver/Anschutz Medical Campus,University of Colorado Denver - Downtown,False,False,0.0
+241,University of Colorado Denver/Anschutz Medical Campus,CU Denver - Anschutz Medical Campus,False,False,0.0
+242,University of Colorado Colorado Springs,University of Colorado Colorado Springs,False,False,0.0
+243,University of Colorado Boulder,Main Campus,True,True,1.0
+244,Colorado College,Colorado College,True,True,1.0
+245,Colorado Mountain College,Colorado Mountain College,False,False,0.0
+246,Colorado Northwestern Community College,Colorado Northwestern Community College,False,False,0.0
+247,Colorado Northwestern Community College,Colorado Northwestern Community College-Craig Campus,False,False,0.0
+248,Colorado School of Mines,Main Campus,False,False,0.0
+249,Colorado State University-Fort Collins,Main Campus,False,False,0.0
+250,University of Denver,University Park Campus,False,False,0.0
+251,Fort Lewis College,Main Campus,False,False,0.0
+252,Colorado Mesa University,Colorado Mesa University - Main Campus,False,False,0.0
+253,Colorado Mesa University,Colorado Mesa University - Bishop Campus,False,False,0.0
+254,Metropolitan State University of Denver,Auraria Campus (Main Campus),False,False,0.0
+255,Morgan Community College,MORGAN COMMUNITY COLLEGE,False,False,0.0
+256,Naropa University,Arapahoe Campus,False,False,0.0
+257,University of Northern Colorado,Main Campus,True,True,1.0
+258,Otero College,Main Campus,False,False,0.0
+259,Pikes Peak State College,Centennial Campus,False,False,0.0
+260,Western Colorado University,Main Campus,False,False,0.0
+261,Central Connecticut State University,Main Campus,False,False,0.0
+262,University of Hartford,Main Campus,False,False,0.0
+263,University of Hartford,Handel Performing Arts Center,False,False,0.0
+264,Mitchell College,Mitchell College,False,False,0.0
+265,University of New Haven,University of New Haven,False,False,0.0
+266,Post University,Main Campus,False,False,0.0
+267,Quinnipiac University,Main Campus,False,False,0.0
+268,Sacred Heart University,Main Campus,False,False,0.0
+269,University of Saint Joseph,West Hartford Campus,False,False,0.0
+270,Trinity College,Main Campus Trinity College,False,False,0.0
+271,Tunxis Community College,Tunxis Community College,False,False,0.0
+272,Yale University,Main Campus,True,True,1.0
+273,Delaware State University,Main Campus,False,False,0.0
+274,University of Delaware,Main Campus,False,False,0.0
+275,Wilmington University,Main Campus - New Castle,False,False,0.0
+276,American University,Main Campus,True,True,1.0
+277,University of the District of Columbia,Van Ness Campus (Main/Flagship),False,False,0.0
+278,University of the District of Columbia,Muirkirk Research Farm,False,False,0.0
+279,University of the District of Columbia,University of the District of Columbia-Community College,False,False,0.0
+280,University of the District of Columbia,Lamond- Riggs (formerly known as Bertie Backus),False,False,0.0
+281,University of the District of Columbia,Old Congress Heights,False,False,0.0
+282,University of the District of Columbia,Aviation Maintenance Technology Campus,False,False,0.0
+283,University of the District of Columbia,Greenleaf Gardens,False,False,0.0
+284,University of the District of Columbia,David A. Clarke School of Law,False,False,0.0
+285,Gallaudet University,Main Campus,False,False,0.0
+286,George Washington University,Main Campus,False,False,0.0
+287,Georgetown University,Main Campus,False,False,0.0
+288,Howard University,Howard University Main Campus,False,False,0.0
+289,Howard University,"RESEARCH CENTER NORTH CAMPUS (BELTSVILLE, MD)",False,False,0.0
+290,Howard University,Law School (West) Campus,False,False,0.0
+291,Bethune-Cookman University,Main Campus,False,False,0.0
+292,Lynn University,Main Campus,False,False,0.0
+293,Eastern Florida State College,Eastern Florida State College -Melbourne Campus,False,False,0.0
+294,Broward College,Willis Holcombe Center,False,False,0.0
+295,University of Central Florida,Main Campus,True,True,1.0
+296,University of Central Florida,Health Sciences Campus ,False,False,0.0
+297,Embry-Riddle Aeronautical University-Daytona Beach,"Daytona Beach, FL Campus",False,False,0.0
+298,Florida Atlantic University,Boca Raton,False,False,0.0
+299,Florida Atlantic University,MacArthur Campus,False,False,0.0
+300,Florida Atlantic University,Davie Campus,False,False,0.0
+301,Florida Atlantic University,SeaTech Campus,False,False,0.0
+302,Florida Atlantic University,FAU at Ft. Lauderdale - Downtown,False,False,0.0
+303,Florida Atlantic University,Ft. Pierce,False,False,0.0
+304,Flagler College,Main Campus,False,False,0.0
+305,AdventHealth University,Main Campus,False,False,0.0
+306,Florida Institute of Technology,Main Campus,False,False,0.0
+307,Florida International University,Modesto A. Maidique Campus,False,False,0.0
+308,Florida Southern College,Main Campus,False,False,0.0
+309,Florida State University,Main Campus,True,True,1.0
+310,Florida State University,Panama City - Florida,False,False,0.0
+311,University of Florida,University of Florida Gainesville Campus,True,True,1.0
+312,University of Florida,UF Health Jacksonville,True,True,1.0
+313,Full Sail University,Main Campus,False,False,0.0
+314,Gulf Coast State College,Gulf Coast State College,False,False,0.0
+315,Jacksonville University,JACKSONVILLE UNIVERSITY,False,False,0.0
+316,Lake Technical College,Lake Technical College  (Main Campus),False,False,0.0
+317,University of Miami,Coral Gables Campus,False,False,0.0
+318,University of Miami,Medical Campus,False,False,0.0
+319,University of Miami,"Rosenstiel School of Marine, Atmospheric and Earth Science",False,False,0.0
+320,North Florida College,Main Campus,False,False,0.0
+321,University of North Florida,Main Campus,False,False,0.0
+322,Nova Southeastern University,Nova Southeastern University - Main Campus,True,True,1.0
+323,Palm Beach Atlantic University,Main Campus,False,False,0.0
+324,Pensacola State College,Pensacola State College,False,False,0.0
+325,Ringling College of Art and Design,Ringling College of Art + Design Main Campus,False,False,0.0
+326,Rollins College,Main Campus,False,False,0.0
+327,Santa Fe College,Northwest Campus,False,False,0.0
+328,Santa Fe College,The Charles L. Blount Downtown Center,False,False,0.0
+329,Santa Fe College,Institute of Public Safety,False,False,0.0
+330,Santa Fe College,Andrews Center,False,False,0.0
+331,Santa Fe College,Davis (Archer) Center,False,False,0.0
+332,Santa Fe College,Watson Center,False,False,0.0
+333,Santa Fe College,The Charles and Nancy Perry Center for Emerging Technologies,False,False,0.0
+334,Seminole State College of Florida,Sanford/Lake Mary,False,False,0.0
+335,University of South Florida,USF Tampa Campus,False,False,0.0
+336,Stetson University,Main Campus,False,False,0.0
+337,Southeastern University,Main Campus,True,True,1.0
+338,The University of Tampa,Main Campus,True,True,1.0
+339,The University of West Florida,Main Campus,True,True,1.0
+340,Andrew College,Andrew College,False,False,0.0
+341,Point University,Point University,True,True,1.0
+342,Clark Atlanta University,Clark Atlanta University,False,False,0.0
+343,Augusta Technical College,Main Campus,False,False,0.0
+344,Columbus Technical College,Columbus Technical College,False,False,0.0
+345,Dalton State College,Main Campus,False,False,0.0
+346,Emory University,Main Campus,True,True,1.0
+347,Fort Valley State University,FORT VALLEY STATE UNIVERSITY,False,False,0.0
+348,Georgia Institute of Technology-Main Campus,Main Campus,False,False,0.0
+349,Georgia Southwestern State University,Georgia Southwestern State University,False,False,0.0
+350,Georgia College & State University,Milledgeville Main Campus,True,True,1.0
+351,Georgia Southern University,Georgia Southern University,False,False,0.0
+352,Georgia State University,Atlanta - Main Campus,False,False,0.0
+353,University of Georgia,Main Campus,False,False,0.0
+354,LaGrange College,LaGrange College,False,False,0.0
+355,Lanier Technical College,"Lanier Technical College, Hall County Campus ",False,False,0.0
+356,Lanier Technical College,Lanier Technical College Forsyth Campus,False,False,0.0
+357,Lanier Technical College,Barrow County Adult Learning Center,False,False,0.0
+358,Lanier Technical College,Lanier Technical College Jackson Campus,False,False,0.0
+359,Lanier Technical College,Lanier Technical College Dawson Campus,False,False,0.0
+360,Lanier Technical College,Lumpkin County Adult Learning Center,False,False,0.0
+361,Lanier Technical College,Hall County Adult Learning Center,False,False,0.0
+362,Lanier Technical College,Banks County Adult Learning Center,False,False,0.0
+363,Lanier Technical College,Dawson County Adult Learning Center,False,False,0.0
+364,Lanier Technical College,Lanier Technical College - Manfacturing Development Center,False,False,0.0
+365,Lanier Technical College,Lanier Technical College Barrow Campus,False,False,0.0
+366,Life University,Life University,False,False,0.0
+367,Mercer University,Macon Campus,False,False,0.0
+368,Morehouse School of Medicine,MOREHOUSE SCHOOL OF MEDICINE,False,False,0.0
+369,Piedmont University,Main Campus,False,False,0.0
+370,Piedmont University,Piedmont University Athens Campus,False,False,0.0
+371,South Georgia Technical College,Americus Campus,False,False,0.0
+372,South Georgia Technical College,Crisp County Center,False,False,0.0
+373,University of West Georgia,Main Campus,False,False,0.0
+374,Young Harris College,Young Harris College,False,False,0.0
+375,Chaminade University of Honolulu,Chaminade University of Honolulu,False,False,0.0
+376,University of Hawaii at Manoa,University of Hawaii at Manoa,False,False,0.0
+377,University of Hawaii at Manoa,John A. Burns School of Medicine & UH Cancer Center,False,False,0.0
+378,College of Eastern Idaho,College of Eastern Idaho,False,False,0.0
+379,Idaho State University,ISU - Pocatello,False,False,0.0
+380,Idaho State University,ISU - Idaho Falls,False,False,0.0
+381,Idaho State University,ISU - Meridian,False,False,0.0
+382,Idaho State University,ISU - Twin Falls,False,False,0.0
+383,Idaho State University,ISU - Alaska,False,False,0.0
+384,University of Idaho,Main Campus,False,False,0.0
+385,The College of Idaho,The College of Idaho,False,False,0.0
+386,Lewis-Clark State College,Main Campus,False,False,0.0
+387,North Idaho College,Main Campus,False,False,0.0
+388,Northwest Nazarene University,Main Campus,False,False,0.0
+389,College of Southern Idaho,CSI Main Campus,True,True,1.0
+390,School of the Art Institute of Chicago,Main Campus,False,False,0.0
+391,Augustana College,Main Campus,True,True,1.0
+392,Aurora University,Main Campus,False,False,0.0
+393,Aurora University,George Williams College,False,False,0.0
+394,Southwestern Illinois College,Belleville Campus,True,True,1.0
+395,Black Hawk College,Moline Campus,False,False,0.0
+396,Blessing Rieman College of Nursing and Health Sciences,Main Campus,False,False,0.0
+397,Bradley University,Main Campus,False,False,0.0
+398,Midwestern University-Downers Grove,Midwestern University - Downers Grove Campus,False,False,0.0
+399,University of Chicago,Main Campus,False,False,0.0
+400,University of Chicago,University of Chicago-MBL Campus,False,False,0.0
+401,City Colleges of Chicago-Kennedy-King College,Kennedy King College,False,False,0.0
+402,City Colleges of Chicago-Kennedy-King College,Dawson Technical Institute,False,False,0.0
+403,City Colleges of Chicago-Malcolm X College,Main Campus,False,False,0.0
+404,City Colleges of Chicago-Malcolm X College,Malcolm X College West Side Learning Center,False,False,0.0
+405,City Colleges of Chicago-Olive-Harvey College,Olive-Harvey College,False,False,0.0
+406,City Colleges of Chicago-Olive-Harvey College,South Chicago Learning Center,False,False,0.0
+407,City Colleges of Chicago-Richard J Daley College,Main Campus,False,False,0.0
+408,City Colleges of Chicago-Richard J Daley College,Arturo Velasquez Institute,False,False,0.0
+409,City Colleges of Chicago-Wilbur Wright College,Main Campus,False,False,0.0
+410,City Colleges of Chicago-Wilbur Wright College,Wright Humboldt Park Campus,False,False,0.0
+411,Columbia College Chicago,Columbia College Chicago,False,False,0.0
+412,Columbia College Chicago,LA Campus,False,False,0.0
+413,DePaul University,Main Campus - Lincoln Park Campus,False,False,0.0
+414,Eastern Illinois University,Main Campus,False,False,0.0
+415,Garrett-Evangelical Theological Seminary,Main Campus,False,False,0.0
+416,Greenville University,Main Campus,False,False,0.0
+417,University of Illinois Chicago,University of Illinois Chicago - Chicago Campus East,False,False,0.0
+418,University of Illinois Chicago,UIC Rockford Regional Campus,False,False,0.0
+419,University of Illinois Chicago,University of Illinois Chicago - Chicago Campus West,False,False,0.0
+420,University of Illinois Chicago,UIC Urbana Regional Campus,False,False,0.0
+421,Benedictine University,Main Campus,False,False,0.0
+422,Benedictine University,Benedictine University at Mesa,False,False,0.0
+423,University of Illinois Urbana-Champaign,Main Campus,True,True,1.0
+424,Illinois College,Main Campus,False,False,0.0
+425,Olney Central College,OLNEY CENTRAL COLLEGE,False,False,0.0
+426,Illinois State University,Illinois State University,False,False,0.0
+427,John A Logan College,Main Campus,False,False,0.0
+428,Knox College,Knox College,False,False,0.0
+429,Lincoln Land Community College,Main Campus,False,False,0.0
+430,Millikin University,Main Campus,False,False,0.0
+431,Moody Bible Institute,Chicago Campus,False,False,0.0
+432,Moody Bible Institute,Spokane,False,False,0.0
+433,Northern Illinois University,Main Campus,False,False,0.0
+434,Northwestern University,Main Campus,False,False,0.0
+435,Northwestern University,Chicago Campus,False,False,0.0
+436,Northwestern University,Miami,False,False,0.0
+437,Olivet Nazarene University,Olivet Nazarene University,False,False,0.0
+438,Rend Lake College,Rend Lake College,False,False,0.0
+439,Richland Community College,Main Campus,False,False,0.0
+440,Rush University,Main Campus,False,False,0.0
+441,University of St Francis,Main Campus,False,False,0.0
+442,St. John's College-Department of Nursing,Main Campus,False,False,0.0
+443,Saint Xavier University,Chicago Campus,False,False,0.0
+444,University of Illinois Springfield,University of Illinois at Springfield,False,False,0.0
+445,Saint Anthony College of Nursing,Main Campus,False,False,0.0
+446,Southern Illinois University-Carbondale,Southern Illinois University Carbondale,False,False,0.0
+447,Southern Illinois University-Carbondale,Southern Illinois University School of Medicine,False,False,0.0
+448,Southern Illinois University-Edwardsville,Edwardsville Campus,False,False,0.0
+449,Trinity Christian College,Trinity Christian College,False,False,0.0
+450,Trinity International University-Illinois,Deerfield Campus,False,False,0.0
+451,Western Illinois University,Macomb Campus,False,False,0.0
+452,Western Illinois University,Moline Campus,False,False,0.0
+453,Wheaton College,Main Campus,False,False,0.0
+454,Ball State University,Main Campus,False,False,0.0
+455,Butler University,Butler University,True,True,1.0
+456,DePauw University,Main Campus,False,False,0.0
+457,Earlham College,Earlham College,False,False,0.0
+458,Franklin College,Franklin College,False,False,0.0
+459,Goshen College,Main Campus,False,False,0.0
+460,Grace College and Theological Seminary,Main Campus,False,False,0.0
+461,Holy Cross College,Main Campus,False,False,0.0
+462,Ivy Tech Community College,Indianapolis,True,True,1.0
+463,Ivy Tech Community College,Warsaw,False,False,0.0
+464,Ivy Tech Community College,Columbus,False,False,0.0
+465,Ivy Tech Community College,Marion,False,False,0.0
+466,Ivy Tech Community College,Anderson 60th Street,False,False,0.0
+467,Ivy Tech Community College,Lafayette,False,False,0.0
+468,Ivy Tech Community College,Fort Wayne Main Campus,False,False,0.0
+469,Ivy Tech Community College,Sellersburg,False,False,0.0
+470,Ivy Tech Community College,Richmond,False,False,0.0
+471,Ivy Tech Community College,Crown Point,False,False,0.0
+472,Ivy Tech Community College,Muncie Downtown,False,False,0.0
+473,Purdue University Fort Wayne,Purdue University Fort Wayne,False,False,0.0
+474,Indiana University-Purdue University-Indianapolis,Main Campus,False,False,0.0
+475,Indiana University-Purdue University-Indianapolis,Indiana University Purdue University Columbus,False,False,0.0
+476,Indiana University-Purdue University-Indianapolis,IUSM - Evansville,False,False,0.0
+477,Indiana University-Purdue University-Indianapolis,IU Fort Wayne,False,False,0.0
+478,Indiana University-Purdue University-Indianapolis,IUSM -  West Lafayette,False,False,0.0
+479,Indiana University-Purdue University-Indianapolis,IUSM - Gary,False,False,0.0
+480,Indiana University-Purdue University-Indianapolis,IUSM - South Bend,False,False,0.0
+481,Indiana Institute of Technology,Indiana Institute of Technology,False,False,0.0
+482,University of Southern Indiana,Main Campus,False,False,0.0
+483,Indiana State University,Main Campus,True,True,1.0
+484,Indiana University-Kokomo,Indiana University Kokomo,False,False,0.0
+485,Indiana University-South Bend,Main Campus,False,False,0.0
+486,Indiana University-Bloomington,Indiana University - Bloomington Campus,True,True,1.0
+487,Indiana University-Northwest,Main Campus,False,False,0.0
+488,Indiana University-Southeast,Main Campus,False,False,0.0
+489,Manchester University,Main Campus,False,False,0.0
+490,Indiana Wesleyan University-Marion,Main Campus,False,False,0.0
+491,University of Notre Dame,Main Campus,False,False,0.0
+492,Rose-Hulman Institute of Technology,Main Campus,False,False,0.0
+493,Taylor University,Main Campus,False,False,0.0
+494,Trine University,Main Campus,True,True,1.0
+495,Valparaiso University,VALPARAISO UNIVERSITY,False,False,0.0
+496,Vincennes University,Vincennes Campus,False,False,0.0
+497,Allen College,Main Campus,False,False,0.0
+498,Buena Vista University,Main Campus and GPS sites,False,False,0.0
+499,Clarke University,Clarke University,False,False,0.0
+500,Dordt University,Main Campus,False,False,0.0
+501,University of Dubuque,Dubuque Main Campus,False,False,0.0
+502,Graceland University-Lamoni,Graceland University,False,False,0.0
+503,Grand View University,Main Campus,False,False,0.0
+504,Grinnell College,Main Campus,True,True,1.0
+505,Iowa Central Community College,Main Campus,False,False,0.0
+506,Iowa Lakes Community College,Iowa Lakes Community College - Estherville,False,False,0.0
+507,Iowa Lakes Community College,Iowa Lakes Community College - Emmetsburg,False,False,0.0
+508,Iowa State University,Iowa State University,True,True,1.0
+509,University of Iowa,Main Campus,True,True,1.0
+510,Kirkwood Community College,Kirkwood Community College,False,False,0.0
+511,Kirkwood Community College,Iowa City Campus,False,False,0.0
+512,Luther College,Main Campus,True,True,1.0
+513,Maharishi International University,Main Campus,False,False,0.0
+514,Marshalltown Community College,Marshalltown Community College,False,False,0.0
+515,Morningside University,Main Campus,False,False,0.0
+516,Mount Mercy University,Mount Mercy University,False,False,0.0
+517,University of Northern Iowa,Main Campus,False,False,0.0
+518,Saint Ambrose University,Main Campus,False,False,0.0
+519,St Luke's College,Main Campus,False,False,0.0
+520,Simpson College,Main Campus,False,False,0.0
+521,Southeastern Community College,Main Campus,False,False,0.0
+522,Wartburg College,Main Campus,False,False,0.0
+523,Western Iowa Tech Community College,Cherokee,False,False,0.0
+524,Western Iowa Tech Community College,Denison Campus,False,False,0.0
+525,William Penn University,William Penn University,True,True,1.0
+526,Allen County Community College,Main Campus,False,False,0.0
+527,Barton County Community College,Barton County Community College,False,False,0.0
+528,Benedictine College,Benedictine College Main Campus,False,False,0.0
+529,Bethel College-North Newton,Bethel College,False,False,0.0
+530,Butler Community College,Butler Community College,False,False,0.0
+531,Colby Community College,Main Campus,False,False,0.0
+532,Dodge City Community College,Dodge City Community College,False,False,0.0
+533,Donnelly College,Donnelly College,False,False,0.0
+534,Emporia State University,Emporia State University,True,True,1.0
+535,Fort Hays State University,Main Campus,True,True,1.0
+536,Friends University,Main Campus,False,False,0.0
+537,Fort Scott Community College,Fort Scott Community College Fort Scott Campus,False,False,0.0
+538,Garden City Community College,Main Campus,False,False,0.0
+539,Hesston College,Main Campus,False,False,0.0
+540,Highland Community College,Highland Community College - Main Campus,False,False,0.0
+541,Highland Community College,Wamego Center,False,False,0.0
+542,Highland Community College,Technical Center,False,False,0.0
+543,Johnson County Community College,Main Campus,False,False,0.0
+544,University of Kansas,Main Campus (Lawrence),False,False,0.0
+545,University of Kansas,Medical Center (Kansas City),False,False,0.0
+546,Kansas State University,Main Campus,True,True,1.0
+547,McPherson College,McPherson College Main Campus,False,False,0.0
+548,North Central Kansas Technical College,Hays Campus,False,False,0.0
+549,Ottawa University-Kansas City,Kansas City Campus,False,False,0.0
+550,Pittsburg State University,Pittsburg State University,False,False,0.0
+551,Pratt Community College,Main Campus,False,False,0.0
+552,Sterling College,Main Campus,False,False,0.0
+553,Washburn University,WASHBURN UNIVERSITY,False,False,0.0
+554,Wichita State University,Main Campus,False,False,0.0
+555,Berea College,Main Campus,False,False,0.0
+556,Brescia University,Main Campus,False,False,0.0
+557,Campbellsville University,Main Campus,False,False,0.0
+558,Campbellsville University,Harrodsburg Education Center,False,False,0.0
+559,University of the Cumberlands,Main Campus,False,False,0.0
+560,Eastern Kentucky University,Main Campus,False,False,0.0
+561,Hazard Community and Technical College,Technical Campus,False,False,0.0
+562,Kentucky State University,Kentucky State University,False,False,0.0
+563,University of Kentucky,University of Kentucky,True,True,1.0
+564,Lindsey Wilson College,Lindsey Wilson College,False,False,0.0
+565,University of Louisville,Belknap Campus (Main),False,False,0.0
+566,Morehead State University,Morehead State University,False,False,0.0
+567,Murray State University,Main Campus,False,False,0.0
+568,Northern Kentucky University,Main Campus,False,False,0.0
+569,West Kentucky Community and Technical College,West Kentucky Community & Technical College,False,False,0.0
+570,University of Pikeville,Main Campus,False,False,0.0
+571,Southeast Kentucky Community & Technical College,Southeast Kentucky Community & Technical College Cumberland Campus,False,False,0.0
+572,Thomas More University,Main Campus,False,False,0.0
+573,Transylvania University,Transylvania University,False,False,0.0
+574,Western Kentucky University,Western Kentucky University - Main Campus,False,False,0.0
+575,Centenary College of Louisiana,Main Campus,True,True,1.0
+576,Dillard University,Dillard University,False,False,0.0
+577,Louisiana State University Health Sciences Center-New Orleans,Main Campus,False,False,0.0
+578,Louisiana State University-Alexandria,Main Campus,False,False,0.0
+579,Louisiana State University and Agricultural & Mechanical College,Main Campus,False,False,0.0
+580,Louisiana Tech University,Louisiana Tech University,False,False,0.0
+581,University of New Orleans,Lakefront Campus,False,False,0.0
+582,University of Louisiana at Monroe,Main Campus,False,False,0.0
+583,Northwestern State University of Louisiana,Main Campus,False,False,0.0
+584,Northwestern State University of Louisiana,"Shreveport School of Nursing in Shreveport, LA.",False,False,0.0
+585,Northwestern State University of Louisiana,NSU Cenla Campus @ England Air Park,False,False,0.0
+586,Northwestern State University of Louisiana,NSU Leesville/Ft. Polk,False,False,0.0
+587,Pineville Beauty School,Pineville Beauty School,False,False,0.0
+588,University of Louisiana at Lafayette,UNIVERSITY OF LOUISIANA AT LAFAYETTE,False,False,0.0
+589,Tulane University of Louisiana,Main Campus,True,True,1.0
+590,Tulane University of Louisiana,Tulane University Health Sciences Center Campus,True,True,1.0
+591,Xavier University of Louisiana,Xavier University of Louisiana - Main Campus,True,True,1.0
+592,College of the Atlantic,College of the Atlantic,False,False,0.0
+593,Bates College,Main Campus,False,False,0.0
+594,Bowdoin College,Main Campus,False,False,0.0
+595,Central Maine Community College,Main Campus,False,False,0.0
+596,Colby College,Main Campus,False,False,0.0
+597,Eastern Maine Community College,Eastern Maine Community College,False,False,0.0
+598,Kennebec Valley Community College,Kennebec Valley Community College- Main Campus (Fairfield),False,False,0.0
+599,University of Maine at Augusta,The University of Maine at Augusta,True,True,1.0
+600,University of Maine,University of Maine,False,False,0.0
+601,Maine Maritime Academy,Main Campus,False,False,0.0
+602,Unity College,Unity Environmental University,True,True,1.0
+603,Allegany College of Maryland,Main Campus,False,False,0.0
+604,Anne Arundel Community College,Anne Arundel Community College,False,False,0.0
+605,Bowie State University,Main Campus,False,False,0.0
+606,Chesapeake College,Wye Mills Campus,False,False,0.0
+607,Garrett College,Garrett College,False,False,0.0
+608,Hagerstown Community College,Main Campus,False,False,0.0
+609,Harford Community College,Main Campus,False,False,0.0
+610,Howard Community College,Howard Community College,False,False,0.0
+611,Johns Hopkins University,"JHU  HOMEWOOD  CAMPUS, BALTIMORE, MARYLAND",False,False,0.0
+612,Johns Hopkins University,"Johns Hopkins Medical Institutions, Baltimore, Md.",True,True,1.0
+613,Johns Hopkins University,Peabody Institute of Johns Hopkins University,False,False,0.0
+614,Loyola University Maryland,Loyola University Maryland Evergreen Campus,False,False,0.0
+615,University of Maryland Global Campus,Adelphi,False,False,0.0
+616,"University of Maryland, Baltimore",Main Campus,False,False,0.0
+617,University of Maryland-Baltimore County,Main Campus,False,False,0.0
+618,University of Maryland-College Park,Main Campus,False,False,0.0
+619,Maryland Institute College of Art,Main Campus,False,False,0.0
+620,University of Maryland Eastern Shore,Main Campus,True,True,1.0
+621,Montgomery College,Montgomery College: Rockville,False,False,0.0
+622,Montgomery College,Montgomery College:Takoma Park/Silver Spring,False,False,0.0
+623,Montgomery College,Montgomery College:Germantown,False,False,0.0
+624,Morgan State University,Main Campus,False,False,0.0
+625,Prince George's Community College,Main Campus,False,False,0.0
+626,Salisbury University,Main Campus,False,False,0.0
+627,Salisbury University,SalisburyUniversity at Eastern Shore Higher Education Center,False,False,0.0
+628,St. John's College,St. John's College,False,False,0.0
+629,Towson University,Towson University,False,False,0.0
+630,Washington College,Main Campus,False,False,0.0
+631,Wor-Wic Community College,Wor Wic Community College,False,False,0.0
+632,Amherst College,Main Campus,False,False,0.0
+633,Boston College,Main Campus,False,False,0.0
+634,Boston University,Boston University Charles River Campus,False,False,0.0
+635,Boston University,Boston University Medical Campus,False,False,0.0
+636,Bristol Community College,Main Campus,False,False,0.0
+637,Bunker Hill Community College,Main Campus,False,False,0.0
+638,Bunker Hill Community College,Chelsea Campus,False,False,0.0
+639,Curry College,Milton Campus,False,False,0.0
+640,Dean College,Main Campus,False,False,0.0
+641,Eastern Nazarene College,Main Campus,False,False,0.0
+642,Emerson College,Main Campus,False,False,0.0
+643,Fisher College,Main Campus,False,False,0.0
+644,Fitchburg State University,Main Campus,False,False,0.0
+645,Gordon College,Fowler Campus,False,False,0.0
+646,Harvard University,Cambridge Campus,True,True,1.0
+647,Harvard University,Longwood Campus,False,False,0.0
+648,College of the Holy Cross,Main Campus,False,False,0.0
+649,Lesley University,Doble / South / Porter Campuses ,False,False,0.0
+650,University of Massachusetts-Lowell,University of Massachusetts Lowell,False,False,0.0
+651,University of Massachusetts-Amherst,Main Campus,False,False,0.0
+652,University of Massachusetts-Boston,Harbor Campus,False,False,0.0
+653,Massachusetts Institute of Technology,MIT,True,True,1.0
+654,Massachusetts Maritime Academy,Massachusetts Maritime Academy,False,False,0.0
+655,Merrimack College,Main Campus,False,False,0.0
+656,Mount Holyoke College,Main Campus,False,False,0.0
+657,Mount Wachusett Community College,Gardner Campus-main campus,False,False,0.0
+658,Massachusetts College of Liberal Arts,Main Campus,True,True,1.0
+659,North Shore Community College,Danvers Campus,False,False,0.0
+660,Northeastern University,Boston Campus,False,False,0.0
+661,Northern Essex Community College,Northern Essex Community College,False,False,0.0
+662,Northern Essex Community College,Lawrence Campus,False,False,0.0
+663,College of Our Lady of the Elms,College of Our Lady of the Elms,False,False,0.0
+664,Quinsigamond Community College,Main Campus,False,False,0.0
+665,Simmons University,Main Campus,False,False,0.0
+666,Smith College,Main Campus,False,False,0.0
+667,Springfield College,Main Campus,False,False,0.0
+668,Springfield Technical Community College,Main Campus,False,False,0.0
+669,Tufts University,Medford/Somerville Campus,False,False,0.0
+670,Tufts University,Grafton Campus,False,False,0.0
+671,Williams College,Main Campus,False,False,0.0
+672,Worcester Polytechnic Institute,Main Campus,True,True,1.0
+673,Worcester State University,Main Campus,False,False,0.0
+674,Adrian College,Main Campus,False,False,0.0
+675,Albion College,Albion College,False,False,0.0
+676,Andrews University,Main Campus,False,False,0.0
+677,Baker College,BAKER COLLEGE OF CADILLAC,False,False,0.0
+678,Calvin University,Calvin University,False,False,0.0
+679,Calvin Theological Seminary,Main Campus,False,False,0.0
+680,Central Michigan University,Main Campus,False,False,0.0
+681,Mott Community College,Main Campus,False,False,0.0
+682,Delta College,Delta College,False,False,0.0
+683,Eastern Michigan University,Eastern Michigan University,True,True,1.0
+684,Ferris State University,Main Campus,True,True,1.0
+685,Ferris State University,Ferris at Delta College,False,False,0.0
+686,Ferris State University,Ferris Grand Rapids,False,False,0.0
+687,Ferris State University,Ferris at Mott Community College,False,False,0.0
+688,Cornerstone University,Main Campus,False,False,0.0
+689,Grand Rapids Community College,Main / DeVos Campus,False,False,0.0
+690,Grand Valley State University,Allendale Campus,True,True,1.0
+691,Grand Valley State University,Robert C. Pew Campus (Grand Rapids),False,False,0.0
+692,Grand Valley State University,Muskegon Locations,False,False,0.0
+693,Grand Valley State University,Grand Rapids Health Campus,True,True,1.0
+694,Kalamazoo College,Main Campus,False,False,0.0
+695,Lake Michigan College,Benton Harbor Campus,False,False,0.0
+696,Lake Superior State University,Petoskey Regional Center,False,False,0.0
+697,Lansing Community College,Lansing Community College,False,False,0.0
+698,Madonna University,Main Campus,False,False,0.0
+699,University of Michigan-Ann Arbor,Ann Arbor campus,True,True,1.0
+700,Michigan State University,Main Campus,True,True,1.0
+701,Michigan State University,MSU College of Human Medicine -- Grand Rapids,False,False,0.0
+702,Michigan Technological University,Main Campus,False,False,0.0
+703,Michigan Technological University,Ford Center(Alberta),False,False,0.0
+704,University of Michigan-Dearborn,Main Campus,False,False,0.0
+705,University of Michigan-Flint,Main Campus,False,False,0.0
+706,Mid Michigan College,Mid Michigan College,False,False,0.0
+707,Muskegon Community College,Main Campus,False,False,0.0
+708,North Central Michigan College,Main Campus,False,False,0.0
+709,North Central Michigan College,The Gaylord Center,False,False,0.0
+710,Northern Michigan University,Northern Michigan University,False,False,0.0
+711,Northwood University,Northwood University Michigan Campus,False,False,0.0
+712,Oakland Community College,Auburn Hills,False,False,0.0
+713,Oakland University,Main Campus,True,True,1.0
+714,Oakland University,Anton Frankel,False,False,0.0
+715,Oakland University,Macomb University Center,False,False,0.0
+716,Olivet College,Main Campus,False,False,0.0
+717,St Clair County Community College,SC4 Main Campus,False,False,0.0
+718,Spring Arbor University,Main Campus,False,False,0.0
+719,Walsh College,Main Campus,False,False,0.0
+720,Washtenaw Community College,Main Campus,False,False,0.0
+721,Wayne State University,Main Campus,False,False,0.0
+722,Western Michigan University,Main Campus,False,False,0.0
+723,Western Theological Seminary,Main Campus,False,False,0.0
+724,Academy College,Main Campus,False,False,0.0
+725,Augsburg University,Main Campus,False,False,0.0
+726,Riverland Community College,Main Campus,False,False,0.0
+727,Bemidji State University,Bemidji State University,False,False,0.0
+728,Bethany Lutheran College,(Main Campus)  Bethany Lutheran College,False,False,0.0
+729,Bethel University,Bethel University,False,False,0.0
+730,Concordia College at Moorhead,Concordia College,False,False,0.0
+731,Martin Luther College,Main Campus,True,True,1.0
+732,Lake Superior College,Trinity Road Campus,False,False,0.0
+733,Hamline University,Hamline University,False,False,0.0
+734,Macalester College,Macalester College,False,False,0.0
+735,Minnesota State University-Mankato,Main Campus,False,False,0.0
+736,Mayo Clinic College of Medicine and Science,Main Campus,True,True,1.0
+737,University of Minnesota-Twin Cities,Main Campus,True,True,1.0
+738,University of Minnesota-Twin Cities,Saint Paul,False,False,0.0
+739,University of Minnesota-Crookston,Crookston Campus,False,False,0.0
+740,Minneapolis Community and Technical College,Main Campus,False,False,0.0
+741,University of Minnesota-Duluth,University of Minnesota Duluth,False,False,0.0
+742,University of Minnesota-Morris,"U OF M, MORRIS",False,False,0.0
+743,Minnesota State University Moorhead,Main Campus,False,False,0.0
+744,College of Saint Benedict,College of Saint Benedict - Main Campus,False,False,0.0
+745,St Cloud Technical and Community College,St. Cloud Technical & Community College,False,False,0.0
+746,Saint Cloud State University,Main Campus,False,False,0.0
+747,Saint Johns University,Main Campus,False,False,0.0
+748,Dunwoody College of Technology,Main Campus,False,False,0.0
+749,Winona State University,Winona State University-Winona,False,False,0.0
+750,Century College,Main Campus,False,False,0.0
+751,Delta State University,Main Campus,False,False,0.0
+752,East Mississippi Community College,Main Campus,False,False,0.0
+753,Hinds Community College,Hinds Community College-Raymond,False,False,0.0
+754,Hinds Community College,Hinds Community College-Vicksburg-Warren Campus,False,False,0.0
+755,Hinds Community College,Hinds CC-Jackson Campus Nursing/Allied Health Ctr,False,False,0.0
+756,Hinds Community College,Hinds Community College-Rankin Campus,False,False,0.0
+757,Hinds Community College,Hinds Community College-Utica Campus,False,False,0.0
+758,Hinds Community College,Hinds CC-Jackson Campus-Academic/Technical Ctr,False,False,0.0
+759,Holmes Community College,Main Campus,False,False,0.0
+760,Itawamba Community College,Itawamba Community College - Fulton,False,False,0.0
+761,Jackson State University,Main Campus,False,False,0.0
+762,Jones County Junior College,Main Campus,False,False,0.0
+763,Meridian Community College,Meridian Community College,False,False,0.0
+764,University of Mississippi,Main Campus,False,False,0.0
+765,Mississippi University for Women,Main Campus,False,False,0.0
+766,Mississippi State University,Main Campus,False,False,0.0
+767,Northwest Mississippi Community College,Senatobia Campus,False,False,0.0
+768,Rust College,Main Campus,False,False,0.0
+769,Southeastern Baptist College,Southeastern Baptist College,False,False,0.0
+770,Southwest Mississippi Community College,Main Campus,False,False,0.0
+771,Central Methodist University-College of Liberal Arts and Sciences,College of Liberal Arts and Sciences,False,False,0.0
+772,Columbia College,Columbia College (Main Campus) @ Columbia,False,False,0.0
