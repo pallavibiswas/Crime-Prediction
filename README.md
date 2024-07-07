@@ -1,4 +1,4 @@
-# Crime prediction and forecasting in US universities
+# Crime prediction in US universities
 
 Files included: 
 1. All data files including original, cleaned, combined, and feature engineered across 3 years from 2020 to 2022, and data visualization and evaluation charts
