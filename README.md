@@ -1,7 +1,7 @@
 # Crime prediction and forecasting in US universities
 
 Files included: 
-1. All data files including original, cleaned, combined, and feature engineered across 3 years from 2020 to 2022, and data visualization charts
+1. All data files including original, cleaned, combined, and feature engineered across 3 years from 2020 to 2022, and data visualization and evaluation charts
 3. SQL code to join csv files based on arrest numbers, crime numbers, disciplinary action numbers, and vawa numbers for reported data (on campus, off campus, public property and residence halls data have been combined in the same manner)
 4. Data cleaning: dropping empty and irrelevant columns and saving them accordingly
 5. Feature engineering: new features added - 
@@ -19,3 +19,9 @@ Files included:
    e. Correlation Heatmap for Incident Sums and Filters,
    d. Interaction Terms Visualization,
    e. Sum of All Incidents for Each Year
+7. Model Building & Evaluation: The following data has been generated -
+   a. Predictions of each incident at university and state level
+   b. Top 20 universities and top 10 states for each incident
+   c. Learning curve based on accuracy for each prediction type
+   d. Evaluation metrics, confusion matrix, and ROC curve for each prediction type
+8. Flask app and corresponding html templates
