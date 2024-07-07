@@ -9,22 +9,6 @@ csv_files = {
     "noncampus_vawa": "cleaned_data/processed_noncampus_vawa.csv"
 }
 
-def feature_engineering(df, incident_columns, filter_columns):
-    
-    for year in ['20', '21', '22']:
-        year_columns = [col for col in incident_columns if col.endswith(year)]
-        df[f'sum_incidents_{year}'] = df[year_columns].sum(axis=1)
-    
-    incident_types = set(col[:-2] for col in incident_columns)
-    for incident in incident_types:
-        df[f'total_{incident}'] = df[[col for col in incident_columns if col.startswith(incident)]].sum(axis=1)
-
-    for filter_col in filter_columns:
-        for incident_col in incident_columns:
-            df[f'{filter_col}_x_{incident_col}'] = df[filter_col] * df[incident_col]
-    
-    return df
-
 incident_columns = {
     'noncampus_arrest': ['WEAPON', 'DRUG', 'LIQUOR'],
     'noncampus_crime': ['MURD', 'NEG_M', 'RAPE', 'FONDL', 'INCES', 'STATR', 'ROBBE', 'AGG_A', 'BURGLA', 'VEHIC', 'ARSON'],
