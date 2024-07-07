@@ -30,7 +30,6 @@ incident_columns = {
     'residencehall_arrest': ['WEAPON', 'DRUG', 'LIQUOR'],
     'residencehall_crime': ['MURD', 'NEG_M', 'RAPE', 'FONDL', 'INCES', 'STATR', 'ROBBE', 'AGG_A', 'BURGLA', 'VEHIC', 'ARSON'],
     'residencehall_discipline': ['WEAPON', 'DRUG', 'LIQUOR'],
-    'residencehall_hate': ['MURD', 'MURD_RAC', 'MURD_REL', 'MURD_SEX', 'MURD_GEN', 'MURD_GID', 'MURD_DIS', 'MURD_ET', 'MURD_NAT', 'RAPE', 'RAPE_RAC', 'RAPE_REL', 'RAPE_SEX', 'RAPE_GEN', 'RAPE_GID', 'RAPE_DIS', 'RAPE_ET', 'RAPE_NAT'],
     'residencehall_vawa': ['DOMEST', 'DATING', 'STALK']
 }
 

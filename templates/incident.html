@@ -9,11 +9,15 @@
         table {
             width: 100%;
             border-collapse: collapse;
+            table-layout: fixed; /* Ensure the table layout is fixed */
         }
         th, td {
             padding: 8px 12px;
             border: 1px solid #ddd;
             text-align: left; /* Align text to the left */
+            overflow: hidden; /* Ensure overflow is hidden */
+            text-overflow: ellipsis; /* Use ellipsis for overflow */
+            white-space: nowrap; /* Prevent text wrapping */
         }
         th {
             background-color: #f4f4f4;

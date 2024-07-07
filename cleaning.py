@@ -5,7 +5,6 @@ csv_files = {
     "residencehall_arrest": "data/residencehall_arrest.csv",
     "residencehall_crime": "data/residencehall_crime.csv",
     "residencehall_discipline": "data/residencehall_discipline.csv",
-    "residencehall_hate": "data/residencehall_hate.csv",
     "residencehall_vawa": "data/residencehall_vawa.csv",
     "residencehall_result": "data/residencehall_result.csv"
 }
