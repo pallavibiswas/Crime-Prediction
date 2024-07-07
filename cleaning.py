@@ -2,14 +2,14 @@ import pandas as pd
 import numpy as np
 
 csv_files = {
-    "residencehall_arrest": "data/residencehall_arrest.csv",
-    "residencehall_crime": "data/residencehall_crime.csv",
-    "residencehall_discipline": "data/residencehall_discipline.csv",
-    "residencehall_vawa": "data/residencehall_vawa.csv",
-    "residencehall_result": "data/residencehall_result.csv"
+    "noncampus_arrest": "data/noncampus_arrest.csv",
+    "noncampus_crime": "data/noncampus_crime.csv",
+    "noncampus_discipline": "data/noncampus_discipline.csv",
+    "noncampus_vawa": "data/noncampus_vawa.csv",
+    "noncampus_result": "data/noncampus_result.csv"
 }
 
-irrelevant_columns = ["OPEID","address","ZIP","sector_cd","Sector_desc"]
+irrelevant_columns = ["OPEID","Address","ZIP","City","sector_cd","Sector_desc","men_total","women_total"]
 
 def preprocess(file, irrelvant):
 
