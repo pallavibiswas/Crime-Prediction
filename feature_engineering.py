@@ -3,11 +3,10 @@ import pandas as pd
 output_dir = 'transformed_data'
 
 csv_files = {
-    "residencehall_arrest": "cleaned_data/processed_residencehall_arrest.csv",
-    "residencehall_crime": "cleaned_data/processed_residencehall_crime.csv",
-    "residencehall_discipline": "cleaned_data/processed_residencehall_discipline.csv",
-    "residencehall_hate": "cleaned_data/processed_residencehall_hate.csv",
-    "residencehall_vawa": "cleaned_data/processed_residencehall_vawa.csv"
+    "noncampus_arrest": "cleaned_data/processed_noncampus_arrest.csv",
+    "noncampus_crime": "cleaned_data/processed_noncampus_crime.csv",
+    "noncampus_discipline": "cleaned_data/processed_noncampus_discipline.csv",
+    "noncampus_vawa": "cleaned_data/processed_noncampus_vawa.csv"
 }
 
 def feature_engineering(df, incident_columns, filter_columns):
@@ -27,10 +26,10 @@ def feature_engineering(df, incident_columns, filter_columns):
     return df
 
 incident_columns = {
-    'residencehall_arrest': ['WEAPON', 'DRUG', 'LIQUOR'],
-    'residencehall_crime': ['MURD', 'NEG_M', 'RAPE', 'FONDL', 'INCES', 'STATR', 'ROBBE', 'AGG_A', 'BURGLA', 'VEHIC', 'ARSON'],
-    'residencehall_discipline': ['WEAPON', 'DRUG', 'LIQUOR'],
-    'residencehall_vawa': ['DOMEST', 'DATING', 'STALK']
+    'noncampus_arrest': ['WEAPON', 'DRUG', 'LIQUOR'],
+    'noncampus_crime': ['MURD', 'NEG_M', 'RAPE', 'FONDL', 'INCES', 'STATR', 'ROBBE', 'AGG_A', 'BURGLA', 'VEHIC', 'ARSON'],
+    'noncampus_discipline': ['WEAPON', 'DRUG', 'LIQUOR'],
+    'noncampus_vawa': ['DOMEST', 'DATING', 'STALK']
 }
 
 filter_columns = ['FILTER20', 'FILTER21', 'FILTER22']
