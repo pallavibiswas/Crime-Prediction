@@ -10,21 +10,19 @@ import seaborn as sns
 from sklearn.metrics import classification_report, confusion_matrix, roc_auc_score, roc_curve
 import os
 
-output_folder = 'results/noncampus incidents'
+output_folder = 'results/reported incidents'
 os.makedirs(output_folder, exist_ok=True)
 
 print("Loading data...")
-df = pd.read_csv('transformed_data/feature_engineered_noncampus_result.csv')
+df = pd.read_csv('transformed_data/feature_engineered_reported_result.csv')
 print("Data loaded successfully!")
 
 filter_columns = ['FILTER20', 'FILTER21', 'FILTER22']
 filter_interaction_columns = [col for col in df.columns if '_x_' in col]
 
-# Identify the columns that end with '_sum' and '_avg'
 sum_columns = [col for col in df.columns if col.endswith('_sum')]
 avg_columns = [col for col in df.columns if col.endswith('_avg')]
 
-# Order incidents as they appear in the CSV file by combining sum and average columns
 incident_columns = [col for col in df.columns if col.endswith('_sum') or col.endswith('_avg')]
 incident_types = sorted(set([col.rsplit('_', 1)[0] for col in incident_columns]), key=lambda x: df.columns.tolist().index(x + '_sum') if x + '_sum' in df.columns else df.columns.tolist().index(x + '_avg'))
 
@@ -161,12 +159,10 @@ top_states = {}
 
 for incident_type in incident_types:
     print(f"Processing incident type: {incident_type}")
-    
-    # Create a subfolder for the incident type
+
     incident_folder = os.path.join(output_folder, incident_type)
     os.makedirs(incident_folder, exist_ok=True)
-    
-    # Combine sum and average columns for the incident type
+
     target_columns = [col for col in df.columns if col.startswith(incident_type) and (col.endswith('_sum') or col.endswith('_avg'))]
     
     print(f"Training and predicting for {incident_type} at university level...")
@@ -175,11 +171,9 @@ for incident_type in incident_types:
     print(f"Training and predicting for {incident_type} at state level...")
     model_state, _, y_test_state, state_predictions = train_and_predict(df, 'State', categorical_features, target_columns, incident_type)
 
-    # Get top 20 universities
     top_univ = get_top_predictions(university_predictions, 'INSTNM', incident_type, top_n=20)
     top_universities[incident_type] = top_univ
 
-    # Get top 10 distinct states
     top_state = get_top_distinct_states(state_predictions, incident_type, top_n=10)
     top_states[incident_type] = top_state
 
@@ -189,14 +183,12 @@ for incident_type in incident_types:
     print(f"Top 10 states for {incident_type}:")
     print(top_state)
 
-    # Evaluate models
     print("Evaluating university level model...")
     evaluate_model(model_univ, _, y_test_univ, target_columns, 'university', incident_type)
 
     print("Evaluating state level model...")
     evaluate_model(model_state, _, y_test_state, target_columns, 'state', incident_type)
 
-    # Save prediction results to CSV with serial numbers
     university_predictions.insert(0, 'Serial Number', range(1, 1 + len(university_predictions)))
     university_predictions.to_csv(f'{output_folder}/{incident_type}/predictions_universities_{incident_type}.csv', index=False)
 
