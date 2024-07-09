@@ -37,7 +37,7 @@ for incident in incident_columns:
     plt.savefig(os.path.join(output_dir, f'average_{incident}_incidents.png'))
     plt.close()
 
-# Distribution Analysis: Histogram for Each Incident Type 
+# Distribution Analysis: Plot for Each Incident Type 
 for incident in incident_columns:
     plt.figure(figsize=(10, 6))
     sns.histplot(df[f'{incident}20'], kde=True)
