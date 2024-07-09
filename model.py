@@ -10,11 +10,11 @@ import seaborn as sns
 from sklearn.metrics import classification_report, confusion_matrix, roc_auc_score, roc_curve
 import os
 
-output_folder = 'results/reported incidents'
+output_folder = 'results/oncampus incidents'
 os.makedirs(output_folder, exist_ok=True)
 
 print("Loading data...")
-df = pd.read_csv('transformed_data/feature_engineered_reported_result.csv')
+df = pd.read_csv('transformed_data/feature_engineered_oncampus_result.csv')
 print("Data loaded successfully!")
 
 filter_columns = ['FILTER20', 'FILTER21', 'FILTER22']
